@@ -10,4 +10,6 @@ For more info: https://cell-lab.net
 
 ### **My Contribution**
 
-I helped translate Cell Lab into Turkish with Davido101's localization project. I focused on biological simulation terminology and UI localization, ensuring that complex scientific concepts are accurately and clearly explained in Turkish. I also worked to soften the academic tone of the game to make it more appealing to ordinary people and especially children.
+I helped translate Cell Lab into Turkish with Davido101's localization project in values-tr file. I focused on biological simulation terminology and UI localization, ensuring that complex scientific concepts are accurately and clearly explained in Turkish. I also worked to soften the academic tone of the game to make it more appealing to ordinary people and especially children.
+
+The link to original values-tr file: https://github.com/Og-flyer/cell-lab-translations/tree/df0e4272b2d274cef31dc793142afbf08e577f68/values-tr
