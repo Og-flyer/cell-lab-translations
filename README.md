@@ -1,24 +1,13 @@
-# What is this?
-These are files containing translations of Cell Lab in various languages, for modding purposes
+### **Project Philosophy**
 
-# How do I contribute?
-You must join [the Discord server](https://discord.gg/yRYwEkakpc), and ask in a channel to join this project, specifiying which language you want work on<br>
-And <i>read the guide below</i>, it's mandatory, and important.
+As a microbiology and genetics student whose interest in the field was sparked by Cell Lab during my childhood, I have tried to make these complex concepts accessible to the next generation of Turkish scientists. I played Cell Lab as a child and it heavily influenced me. It contributed to me pursuing my interests in genetic engineering and microbiology.
 
-# Guide
+### **The Game**
 
-## Contributing: You <b><i>MUST</i></b> follow these rules if you wish to contribute.
+Cell Lab is an educational mobile game developed by Petter Säterskog. It introduces some key concepts and basic microbiology lab procedures to people. It is strongly focused on genetic engineering concepts for building your own microorganisms. It also contains heavy terminology for ordinary people, such as adhesin connections and oscillatory signaling. The game also teaches heavy concepts like aseptic techniques, gene therapy, neuron signaling, viral infections, genetic inheritance, paleogenetics, and ecological succession.
 
-- Translate yourself, do not use any online tools as anything more than a reference. This implies you must be proficient in the language at the same level as a native person
-- Only modify the files for the language you have been assigned to
-- Translate as well as possible
-- If you're not sure about a translation, leave it blank
-- If you're changing or replacing someone else's translation, you MUST communicate what you've changed and why
-- Don't translate or change names in any way, keep them exactly as is
+For more info: https://cell-lab.net
 
-## Modding: This is how you add this to your mod
-Adding this to your mod is super simple
+### **My Contribution**
 
-First, you will have to go to your `res` folder<br>
-Next, you will have to plop in every `values` folder, replacing your current ones<br>
-Finally, you will have to replace your `arrays.xml` file with the one here. Or, if you've already modified it and don't want to lose your changes, only replace the `language_ids` and `language_names` fields
+I helped translate Cell Lab into Turkish with Davido101's localization project. I focused on biological simulation terminology and UI localization, ensuring that complex scientific concepts are accurately and clearly explained in Turkish. I also worked to soften the academic tone of the game to make it more appealing to ordinary people and especially children.
